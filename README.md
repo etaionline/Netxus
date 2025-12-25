@@ -1,9 +1,9 @@
-# 🛡️ KronoSave Intelligence Hub
+# 🛡️ Netxus Intelligence Hub
 
 **Autonomous AI Agent Ecosystem for Consolidated Intelligence Management**
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-667eea?style=for-the-badge)](https://payrw82xokmt.space.minimax.io)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-333?style=for-the-badge)](https://github.com/etaionline/kronosave-intelligence-hub)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-333?style=for-the-badge)](https://github.com/etaionline/netxus)
 [![Supabase](https://img.shields.io/badge/Supabase-Backend-3ecf8e?style=for-the-badge)](https://supabase.com)
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285f4?style=for-the-badge)](./browser-extension/)
 
@@ -11,7 +11,7 @@
 
 ## 🎯 **Vision**
 
-KronoSave is a **bootstrap protocol system** that consolidates all your AI tools (Mistral, ChatGPT, Blackbox) and web interactions into a unified intelligence ecosystem. It features autonomous AI agents that automatically process, organize, and optimize your workflow while building an interconnected knowledge network.
+Netxus is a **bootstrap protocol system** that consolidates all your AI tools (Mistral, ChatGPT, Blackbox) and web interactions into a unified intelligence ecosystem. It features autonomous AI agents that automatically process, organize, and optimize your workflow while building an interconnected knowledge network.
 
 ## 🚀 **Live Applications**
 
@@ -54,7 +54,7 @@ KronoSave is a **bootstrap protocol system** that consolidates all your AI tools
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Browser       │    │   KronoSave     │    │   Autonomous    │
+│   Browser       │    │   Netxus        │    │   Autonomous    │
 │   Extension     │───▶│   Intelligence  │───▶│   AI Agents     │
 │                 │    │   Hub           │    │                 │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
@@ -162,8 +162,8 @@ KronoSave is a **bootstrap protocol system** that consolidates all your AI tools
 
 ### **1. Clone Repository**
 ```bash
-git clone https://github.com/etaionline/kronosave-intelligence-hub.git
-cd kronosave-intelligence-hub
+git clone https://github.com/etaionline/netxus.git
+cd netxus
 ```
 
 ### **2. Install Dependencies**
@@ -204,7 +204,7 @@ npm start
 - **Supabase**: Project URL and Service Role Key
 - **GitHub**: Personal Access Token
 - **Notion**: Integration Token
-- **Browser Extension**: KronoSave API Key
+- **Browser Extension**: Netxus API Key
 
 ## 📈 **Performance Metrics**
 
@@ -299,9 +299,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 **Support**
 
-- **Documentation**: [Wiki](https://github.com/etaionline/kronosave-intelligence-hub/wiki)
-- **Issues**: [GitHub Issues](https://github.com/etaionline/kronosave-intelligence-hub/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/etaionline/kronosave-intelligence-hub/discussions)
+- **Documentation**: [Wiki](https://github.com/etaionline/netxus/wiki)
+- **Issues**: [GitHub Issues](https://github.com/etaionline/netxus/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/etaionline/netxus/discussions)
 
 ## 🙏 **Acknowledgments**
 
